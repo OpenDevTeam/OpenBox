@@ -11,7 +11,7 @@
 
 # 资源分类
   
-  + [四大组件]()
+  + [四大组件](https://github.com/OpenDevTeam/OpenBox/tree/master/article/components)
   + [View&动画](https://github.com/OpenDevTeam/OpenBox/tree/master/article/view%26anim)
   + [并发&异步](https://github.com/OpenDevTeam/OpenBox/tree/master/article/thread%26asyn)
   + [数据库](https://github.com/OpenDevTeam/OpenBox/tree/master/article/database)
@@ -20,7 +20,7 @@
   + [网络请求](https://github.com/OpenDevTeam/OpenBox/tree/master/article/http)
   + [性能优化](https://github.com/OpenDevTeam/OpenBox/tree/master/article/optimaization)
   + [单元测试](https://github.com/OpenDevTeam/OpenBox/tree/master/article/unitTest)
-  + [Bugs](https://github.com/OpenDevTeam/OpenBox/tree/master/article/Bugs)
+  + [Bugs](https://github.com/OpenDevTeam/OpenBox/tree/master/article/bugs)
   + [工具使用](https://github.com/OpenDevTeam/OpenBox/tree/master/article/tools)
   + [其他](https://github.com/OpenDevTeam/OpenBox/tree/master/article/others)
 
