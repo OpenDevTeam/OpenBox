@@ -27,7 +27,7 @@
 # 联系我们
 
 + Email：open_dev_team@163.com
-+ 微信：jf-1994(井方哥）
+
 + 微信公众号:Open软件开发小组
 
 
