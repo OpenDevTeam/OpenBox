@@ -21,7 +21,7 @@
 
 #3 [Android MVP+Retrofit+RxJava 实践小结](http://www.diycode.cc/topics/236)
 
-作者：**appcode (恬)**&emsp;&emsp;分享者：寂小桦
+作者：**吴小龙同学**&emsp;&emsp;分享者：寂小桦
 
 
 > 本文介绍MVP、Retrofit、RxJava的使用，并给出核心代码，以及Demo源码。
