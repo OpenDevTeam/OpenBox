@@ -3,10 +3,11 @@
 >Open软件开发小组，我们专注于Android开发，不仅每周发布原创技术文章，而且收录并精选优秀Android技术文章，宗旨在打造移动开发技术学习的入口，
 让我们互相学习，共同成长；
 
+
 # 技术专题
 + [[Android技术专题]APK瘦身看这一篇文章就够了](https://github.com/OpenDevTeam/OpenBox/blob/master/topic/%5BAndroid%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98%5DAPK%E7%98%A6%E8%BA%AB%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
 + [[Android技术专题]自定义View从入门到上天](https://github.com/OpenDevTeam/OpenBox/blob/master/topic/%5BAndroid%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98%5D%E8%87%AA%E5%AE%9A%E4%B9%89View%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E4%B8%8A%E5%A4%A9.md)
-
++ [[Android技术专题]应用开发进阶必经之路之性能优化（上）](https://github.com/OpenDevTeam/OpenBox/blob/master/topic/%5BAndroid%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98%5D%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6%E5%BF%85%E7%BB%8F%E4%B9%8B%E8%B7%AF%E4%B9%8B%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 # 每周精选
 
 > 2016-08
