@@ -1,0 +1,17 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.2"
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'org.greenrobot:greendao:2.2.1'
+    compile 'org.greenrobot:greendao-generator:2.2.0'
+    compile files('libs/gson-2.2.2.jar')
+}
