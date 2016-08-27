@@ -121,4 +121,7 @@ DBCodeGenerate.java
 
        怎么样，是不是用起来很爽，UserInfoDao里面的方法肯定不止这四个，还有很多方便操作数据库的api，心动不如行动，赶快尝试一下吧~~
 
+
 [官方网站地址](http://greenrobot.org/greendao/)
+
+[Demo地址](https://github.com/OpenDevTeam/OpenBox/tree/master/demo/greendao/greendao)
