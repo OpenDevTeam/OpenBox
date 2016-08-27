@@ -93,7 +93,18 @@
 
 作者：**陈昱全** &emsp;&emsp;分享者：树袋熊 
 
-> 本文介绍了 so库 的加载流程，便于我们发现问题和解决问题。
+>本文主要知识点： 
+>1、Android中so文件编译平台问题分析;
+>
+>2、Android中so文件的加载流程； 
+>
+>3、Android中so文件释放流程；
+>
+>4、Android中so文件兼容策略；
+>
+>5、Android插件中加载so文件；
+>
+>6、Android中so文件使用的问题总结。
 
  ` so库 ` ` HotFix `
 
@@ -103,12 +114,18 @@
 作者：**北京猿** &emsp;&emsp;分享者：张明云
 
 > 本文主要知识点：
-1、Android中so文件编译平台问题分析
-2、Android中so文件的加载流程
-3、Android中so文件释放流程
-4、Android中so文件兼容策略
-5、Android插件中加载so文件
-6、Android中so文件使用的问题总结
+> 
+>1、Android中so文件编译平台问题分析
+
+>2、Android中so文件的加载流程
+>
+>3、Android中so文件释放流程
+>
+>4、Android中so文件兼容策略
+>
+>5、Android插件中加载so文件
+>
+>6、Android中so文件使用的问题总结
 
 ` so库` ` 插件 `
 
