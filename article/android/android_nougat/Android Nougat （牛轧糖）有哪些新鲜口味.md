@@ -26,7 +26,7 @@ Android 7.0 经过5个开发者预览版本的改善，终于在8.22日正式推
 	>
 	>最近任务快速切换（双击菜单键）
 	>
-	>![quick_switch](/img/quick_switch.gif)
+	>![quick_switch](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/quick_switch.gif)
 * 通知
 
     捆绑通知、直接回复、通知控制
@@ -58,14 +58,14 @@ Android 7.0 经过5个开发者预览版本的改善，终于在8.22日正式推
 
 * 重新设计了Notification系统，Notification拥有更加丰富的交互操作以及自定义其显示样式
 
-![notification_setting](/img/notification_setting.gif)
-![direct_replay](/img/direct_replay.gif)
+![notification_setting](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/notification_setting.gif)
+![direct_replay](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/direct_replay.gif)
 
 * 重新设计了设置的交互，使设置操作更加快捷
 
-![quick_settings](/img/quick_settings.gif)
-![settings](/img/settings.gif)
-![all_setting](/img/all_setting.gif)
+![quick_settings](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/quick_settings.gif)
+![settings](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/settings.gif)
+![all_setting](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/all_setting.gif)
 
 ###作为应用开发人员，我们最感兴趣的部分主要是分屏模式、通知系统和性能、功耗相关
 
@@ -75,7 +75,7 @@ Android 7.0 经过5个开发者预览版本的改善，终于在8.22日正式推
 2. android:resizeableActivity="false"  intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);  不作为分屏窗口显示
 3. intent.addFlags(Intent.FLAG_ACTIVITY_LAUNCH_ADJACENT | Intent.FLAG_ACTIVITY_NEW_TASK);  在另一窗口中创建并显示Activity
 
-![multi_windows](/img/multi_windows.gif)
+![multi_windows](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/multi_windows.gif)
 
 ####Pip(Picture-in-picture)模式
 如果使用过Youtube应用，一定对其视频播放可作为悬浮窗显示在应用上层的操作体验印象深刻，Pip模式与之类似允许Activity以窗体的方式显示在其他Activity上层，不影响底层Activity的操作，遗憾的是目前Pip模式仅支持Android TV以及Tablet版本
@@ -88,7 +88,7 @@ Notification在原有Notifacation.Action之上添加了Direct Reply功能
 > RemoteInput<br/>
 > addRemoteInput(mRemoteInput)
 
-![direct_replay](/img/direct_replay.gif)
+![direct_replay](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/direct_replay.gif)
 
 使用Direct Reply Notification
 
@@ -110,7 +110,7 @@ Notification在原有Notifacation.Action之上添加了Direct Reply功能
 	NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(this);
 	notificationManagerCompat.notify(NOTIFICATION_ID, notification);
 
-![direct_reply_release](/img/direct_reply_release.png)
+![direct_reply_release](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/direct_reply_release.png)
 
 Notification.Action: 我们可以根据需要为Notification添加多个操作按钮 setActions(Action... actions)
 
@@ -196,7 +196,7 @@ Notification.Action: 我们可以根据需要为Notification添加多个操作�
 
 彩蛋：当系统开启开发者权限后，你会在设置编辑中看到显示图层便捷和GPU渲染的快捷设置项，很好用的一个设计
 
-![developer_mode](/img/developer_mode.gif)
+![developer_mode](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/developer_mode.gif)
 
 ####功耗
 
