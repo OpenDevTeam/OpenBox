@@ -1,5 +1,5 @@
 # Android Nougat
-![nougat](article/android/android_nougat/img/nougat.png)
+![nougat](https://github.com/OpenDevTeam/OpenBox/blob/master/article/android/android_nougat/img/nougat.png)
 
 Android 7.0 经过5个开发者预览版本的改善，终于在8.22日正式推送，并确定版本名为Nougat(牛轧糖)
 
