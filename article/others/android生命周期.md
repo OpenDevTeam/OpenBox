@@ -286,4 +286,10 @@
 
 ### MainFragmentActivity.onDetachedFromWindow / ☐→
 
+## 致谢
+
+感谢朋友们无私的分享与补充。
+
+* [Steve Pomeroy](https://github.com/xxv/android-lifecycle)
+
 
