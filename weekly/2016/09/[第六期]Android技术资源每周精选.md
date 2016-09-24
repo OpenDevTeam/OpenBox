@@ -62,6 +62,8 @@
 
 > 4、推送原理
 
+> 5、推送整合方案 
+
 ###3 [Android WebView：性能优化不得不说的事](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433887&idx=1&sn=49ef97de2710409531c4118819a2f4d7&chksm=f12882e4c65f0bf28f89077a11df980d8e08882b24738812688b20cfb3751d52dda7d83ea43a&scene=1&srcid=0918K1MGEAUWuIETEv3BgQ8O#rd) 
 
 作者：**motalks**   分享者： 刘兵
@@ -111,13 +113,15 @@
 > 
 > 2、响应者（subscriber）怎么收到数据
 > 
-> 3、怎么对事件流进行操作（operator/transformer）以及整个过程的调（scheduler）
+> 4、怎么对事件流进行操作（operator/transformer）以及整个过程的调（scheduler）
 > 
-> 4、backpressure
+> 5、backpressure
 
-> 5、hook
+> 6、hook
 
-> 6、测试
+> 7、测试
+
+> 8、总结
 
 ###3 [Data Binding Formatter Plugin - 知乎专栏·「loli.xing.moe」](http://zhuanlan.zhihu.com/p/22427306) 
 
@@ -212,7 +216,7 @@
 > 4、Linux技术博客推荐
 
 > 5、PHP技术博客推荐
- 
+
 ###2 [Android 九年，我们需要学什么？](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650687242&idx=1&sn=a4ea8c1e5780eb2494b59cfa51b3c7c2&chksm=bea636d989d1bfcf9c751ba5fdbf55c980ac0d6c4d16c55cbfc467a3fb6d6bee86e229db7e2f&scene=1&srcid=0913wpiPrVMbt0mN3bra4Ksr#rd) 
 
 作者：**CSDN移动**   分享者： 董大为
