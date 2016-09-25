@@ -1,51 +1,49 @@
-# 基本用法 #
+# 基本命令 #
 ### 命令语法 	
-1. 只有一个设备或者模拟器的时候  
+1. 只连接了一个设备/模拟器的时候 
 	```sh adb <command>
 	```
-2. 多个模拟器的时候，选择一个模拟器进行指定  
+2. 连接多个设备/模拟器需要指定一个设备/模拟器进行连接  
 	```sh 
 	adb [-d|-e|-s <serialNumber>] <command>
 	```
 
-| 参数                | 含义                                               |
-|---------------------|----------------------------------------------------|
-| -d                  | 指定当前唯一通过 USB 连接的 Android 设备为命令目标 |
-| -e                  | 指定当前唯一运行的模拟器为命令目标                 |
-| `-s <serialNumber>` | 指定相应 serialNumber 号的设备/模拟器为命令目标
+   -d 当前与USB进行连接的设备/模拟器
 
+   -e 当前正在运行的设备/模拟器
+
+   -s 相应序列号的设备/模拟器
 ### 连接adb   
 
-在多个设备/模拟器连接的情况下较常用的是 `-s <serialNumber>` 参数，serialNumber 可以通过 `adb devices` 命令获取。如：
+想通过序列号来连接adb,可以通过以下命令来获取序列号。如：
 <pre><code> $ adb service
 
  List of devices attached
- cf264b8f	device
  emulator-5554	device
 </code></pre>
 
-输出里的 `cf264b8f` 和 `emulator-5554` 即为 serialNumber。比如这时想指定 `cf264b8f` 这个设备来运行 adb 命令获取屏幕分辨率：
-<pre><code>adb -s cf264b8f shell wm size</code></pre>
+输出里的 emulator-5554 即为设备序列号。指定 emulator-5554 这个设备来运行 adb 命令获取屏幕分辨率：
+<pre><code>adb -s emulator-5554 shell wm size</code></pre>
 
-### 启动/停止
-启动 adb server 命令：
+### adb启动/停止
+启动 adb 命令：
 <pre><code> adb start-server </code></pre>
-停止 adb server 命令：
+停止 adb 命令：
 <pre><code> adb kill-server </code></pre>
 ### 查看 adb 版本
 <pre><code> adb version </code></pre>
-### 指定 adb server 的网络端口
+### 指定 adb 网络端口
 <pre><code> adb -P <port> start-server </code></pre>
 默认端口为 5037。
 
-# 设备连接管理 #
+# 设备连接命令 #
 
 
-### 查询已连接设备/模拟器
+### 查询已连接设备/模拟器数量以及序列号
 <pre><code> adb devices </code></pre>
 ### USB 连接
 <pre><code> adb devices </code></pre>
-运行以上命令如果能看到如果能看到
+运行以上命令如果能看到
 <pre><code> xxxxxx device </code></pre>说明连接成功。
 ### 无线连接（需要借助 USB 线）
 运行以上命令如果能看到<pre><code> <device-ip-address>:5555 device </code></pre>  
@@ -53,11 +51,9 @@
 
 **断开无线连接**
 <pre><code> adb disconnect <device-ip-address> </code></pre> 
-### 无线连接（无需借助 USB 线）
-**注：较为复杂,稍后可点击原文进行观看。**
 
 
-# 应用管理 #
+# 应用命令 #
 
 ### 安装 APK
 
@@ -67,19 +63,17 @@
 
 参数：
 
-`adb install` 后面可以跟一些可选参数来控制安装 APK 的行为，可用参数及含义如下：
+-l 将应用安装到保护目录 /mnt/asec 
 
-| 参数 | 含义                                                                              |
-|------|-----------------------------------------------------------------------------------|
-| -l   | 将应用安装到保护目录 /mnt/asec                                                    |
-| -r   | 允许覆盖安装                                                                      |
-| -t   | 允许安装 AndroidManifest.xml 里 application 指定 `android:testOnly="true"` 的应用 |
-| -s   | 将应用安装到 sdcard                                                               |
-| -d   | 允许降级覆盖安装                                                                  |
-| -g   | 授予所有运行时权限                                                                |
+-r 允许覆盖安装 
 
-运行命令后如果见到类似如下输出（状态为 `Success`）代表安装成功：
+-t 允许安装 AndroidManifest.xml 里 application 指定android:testOnly="true" 的应用 -s 将应用安装到 sdcard
 
+-d 允许降级覆盖安装 
+
+-g 授予所有运行时权限
+
+运行命令后如果见到类似如下输出（状态为 Success）代表安装成功：
 
 <pre><code>sh
 [100%] /data/local/tmp/1.apk
@@ -107,7 +101,7 @@ Success
 <pre><code>sh adb shell dumpsys activity activities | grep mFocusedActivity</code></pre>
 `<packagename>` 表示应用名包，这条命令的效果相当于在设置里的应用信息界面点击了「清除缓存」和「清除数据」。
 
-#  查看日志 #
+#  日志命令 #
 Android 系统的日志分为两部分，底层的 Linux 内核日志输出到 /proc/kmsg，Android 的日志输出到 /dev/log。
 
 ### Android 日志
@@ -146,12 +140,9 @@ Android 的日志分为如下几个级别：
 
 表示输出 tag `ActivityManager` 的 Info 以上级别日志，输出 tag `MyApp` 的 Debug 以上级别日志，及其它 tag 的 Silent 级别日志（即屏蔽其它 tag 日志）。
 
-#### 日志格式
-**注：内容较多,稍后可点击原文进行观看。**
+## 设备信息命令
 
-## 查看设备信息
-
-### 型号
+### 查看型号
 
 命令：
 
@@ -160,18 +151,18 @@ Android 的日志分为如下几个级别：
 输出示例：
 <pre><code>sh Nexus 5</code></pre>
 
-### 电池状况
+### 查看电池状况
 
 命令：
 <pre><code>sh adb shell dumpsys battery</code></pre>
 
-### 屏幕分辨率
+### 查看屏幕分辨率
 命令：
 <pre><code>sh adb shell wm size</code></pre>
-### 屏幕密度
+### 查看屏幕密度
 命令：
 <pre><code>sh adb shell wm density</code></pre>
-### 显示屏参数
+### 查看显示屏参数
 命令：
 <pre><code>sh adb shell dumpsys window displays</code></pre>
 
@@ -215,9 +206,9 @@ Android 的日志分为如下几个级别：
 
 此时命令行提示符是 `$` 则表示没有 root 权限，是 `#` 则表示已 root。
 
-### 使用 Monkey 进行压力测试
+### 跑Monkey
 
-Monkey 可以生成伪随机用户事件来模拟单击、触摸、手势等操作，可以对正在开发中的程序进行随机压力测试。
+Monkey 可以生成伪随机用户事件来用户操作，可以对开发中的程序进行随机压力测试。
 
 简单用法：
 <pre><code>sh adb shell monkey -p <packagename> -v 500
@@ -227,25 +218,15 @@ Monkey 可以生成伪随机用户事件来模拟单击、触摸、手势等操�
 
 Monkey 的详细用法参考 [官方文档](https://developer.android.com/studio/test/monkey.html)。
 
-### 查看进程
+### 查看系统进程
 
 命令：
 <pre><code>shadb shell ps</code></pre>
 
-### 查看实时资源占用情况
+### 查看系统资源占用情况
 
 命令：
 <pre><code>sh adb shell top</code></pre>
-
-## 致谢
-
-感谢朋友们无私的分享与补充。
-
-* [zxning](https://github.com/zxning)
-* [linhua55](https://github.com/linhua55)
-* [codeskyblue](https://github.com/codeskyblue)
-* [seasonyuu](https://github.com/seasonyuu)
-* [fan123199](https://github.com/fan123199)
 
 ## 参考链接
 
