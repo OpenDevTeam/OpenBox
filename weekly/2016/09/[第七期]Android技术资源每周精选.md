@@ -83,7 +83,7 @@
 
 
 ###3 [Android SDK 开发（第一部分）](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=100000263&idx=1&sn=37c28408531a9ce40e5f9c162ded25cd&chksm=17201d2e20579438edb128253c4d0c74588c23bf8248bfe5ca242246c5fb4b766d0b7fb76065&mpshare=1&scene=1&srcid=0928bHd81ciRXKHorS64MIBM#wechat_redirect1) 
-作者：**肥肥鱼**   分享者： 曾井芳
+作者：**肥肥鱼**   分享者： 井芳哥
 
 > 1、作者介绍
 
@@ -142,21 +142,7 @@
 
 > 5、删除无用字体
 
-> 6、减少icon-font的使用
-
-> 7、动态下载资源
-
-> 8、压缩资源文件
-
-> 9、优化lib 配置abiFilters
-
-> 10、分析用户手机的cpu
-
-> 11、避免复制so
-
-> 12、SVG 的使用
-
-> 13、、、、、、、、后续还有更多，详细请点击链接查看
+> 6、、、、、、、详细请点击链接查看
 
 ###3 [RxJava 与 Retrofit 结合的最佳实践](https://gank.io/post/56e80c2c677659311bed9841)
 作者：**tough1985**   分享者： 杨尚臻
