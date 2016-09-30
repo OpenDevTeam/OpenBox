@@ -83,7 +83,7 @@
 
 
 ###3 [Android SDK 开发（第一部分）](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=100000263&idx=1&sn=37c28408531a9ce40e5f9c162ded25cd&chksm=17201d2e20579438edb128253c4d0c74588c23bf8248bfe5ca242246c5fb4b766d0b7fb76065&mpshare=1&scene=1&srcid=0928bHd81ciRXKHorS64MIBM#wechat_redirect1) 
-作者：**肥肥鱼**   分享者： 井芳哥
+作者：**肥肥鱼**   分享者： 井方哥
 
 > 1、作者介绍
 
@@ -96,8 +96,6 @@
 > 5、API设计
 
 > 6、版本管理
-
-> 7、参考文章
 
 #呕心沥血推荐
 
