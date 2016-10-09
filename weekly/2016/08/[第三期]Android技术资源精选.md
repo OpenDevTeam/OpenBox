@@ -4,8 +4,6 @@
 
 作者：**abaohuang** &emsp;&emsp;分享者：育禧
 
-> 作为入门，本文从给三个方面给大家介绍一些动态布局相关的基础知识和经验。
-
 >1、动态添加View到界面上，摆脱Layout文件夹下的XML文件。
 
 >2、熟悉Drawable子类，摆脱Drawable文件夹下的XML文件。
