@@ -28,7 +28,6 @@
 
 > 4、核心要点
 
-> 4、总结
 
 ###3 [Attr、Style和Theme详解](http://www.jianshu.com/p/dd79220b47dd?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weixin) 
 
@@ -42,7 +41,6 @@
 
 > 4、Attr的获得方法
 
-> 5、总结
 
 ###4 [Android自定义控件--仿安全卫士中的一键加速](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821214&idx=1&sn=d0c120c9dc21669c7acac9c250991e3c&chksm=80b786c0b7c00fd62c7be336df91885614e0184b153350602bcd1ff39618d6d80cc7a6999e20&mpshare=1&scene=1&srcid=10145QHCusL06gHaO9Tx0JEH#wechat_redirect) 
 
@@ -79,7 +77,6 @@
 
 > 4、路由表的初始化
 
-> 5、总结 
 
 ###3 [浅析ButterKnife](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232205&idx=1&sn=6c24e6eef2b18f253284b9dd92ec7efb&chksm=f1d9eaaec6ae63b82fd84f72c66d3759c693f164ff578da5dde45d367f168aea0038bc3cc8e8&mpshare=1&scene=1&srcid=1014X59cuALAaBbyi38oqTqi#wechat_redirect) 
 
@@ -95,7 +92,6 @@
 
 > 5、执行注解处理器
 
-> 6、总结
 
 #Android热更新与补丁
 
@@ -122,8 +118,6 @@
 > 4、客户端的行为
  
 > 5、增量更新后安装
-
-> 6、总结
 
 
 #前沿技术
@@ -178,7 +172,6 @@ android屏幕共享和远程协助这类功能的应用都是什么实现原理�
 
 > 5．压缩
 
-> 6．总结
 
 ###5 [技术盒子丨当你喜刷刷时，你可知为何朋友圈能这么流畅？](https://zhuanlan.zhihu.com/p/22934938?from=timeline&isappinstalled=0) 
 
