@@ -1,4 +1,4 @@
-#[第6期]Android技术资源每周精选
+#[第8期]Android技术资源每周精选
 
 
 ##摘要
@@ -126,6 +126,70 @@
 > 6、总结
 
 
+#前沿技术
+
+###1 [Android状态栏着色实践](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237284&idx=1&sn=6e3b30cc63d675bae8cb3e7c9563384e&chksm=8863980bbf14111d1e3ac9522ae56433a3486d58e7ad5b58c1894270a126823983fc3a6017ac&mpshare=1&scene=1&srcid=1009sLFkbEHMoTOgXpYIvkB1#wechat_redirect) 
+
+作者：**郭霖**   分享者： Amore
+
+> 本篇分享了状态栏着色的三种方案，针对不同的情况进行了具体分析。
+
+> 1．第一种方案
+
+> 2．第二种方案
+
+> 3．第三种方案
+
+###2 [Android 性能优化典范（六）](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667376274&idx=1&sn=b35396dc9e2749da076b94979c9c5424&chksm=84f33fdcb384b6cac52b98a29cf379178afe69d6761e92b4b7ad35627c722ac3dbf6887a28c7&mpshare=1&scene=1&srcid=1011ObiSQI9cClmRpq89H8XD#wechat_redirect) 
+
+作者：**胡凯**   分享者： 张明云
+
+> 1．App Launch time 101
+
+> 2．App Launch Time & Activity Creation
+
+> 3．App Launch Time & Bloated Application Objects
+
+> 4．App Launch Time & Theme Launch Screens
+
+> 5．Smaller APKs: A Checklist
+
+> 6．VectorDrawable for smaller APKs
+
+###3 [vysor的实现原理是什么？](http://www.zhihu.com/question/46229570/answer/124043146) 
+
+作者：**知乎问答**   分享者： 咫尺星尘
+
+> vysor这是一款被大家称作神器的工具，在chrome安装一个插件无需root就能连接android，实现同步手机操作和投影显示。
+android屏幕共享和远程协助这类功能的应用都是什么实现原理？
+
+
+###4 [微信终端跨平台组件 mars 系列（一） - 高性能日志模块xlog](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286403&idx=1&sn=7b258bc931150b93d282f2c64a4a7d08&chksm=8334c381b4434a97920cd5d2a443f6c8c5c159a23bb5baf11a2018db9a2bc1b1a634a3eb0870&scene=0#wechat_redirect) 
+
+作者：**garryyan**   分享者： 育禧
+
+> 1．常规方案
+
+> 2．进一步思考
+
+> 3．mars 的日志模块xlog
+
+> 4．mmap
+
+> 5．压缩
+
+> 6．总结
+
+###5 [技术盒子丨当你喜刷刷时，你可知为何朋友圈能这么流畅？](https://zhuanlan.zhihu.com/p/22934938?from=timeline&isappinstalled=0) 
+
+作者：**Larry**   分享者： 宗恒
+
+> 1．那么，朋友圈如何保障流畅？
+
+> 2．胖瘦数据分离：胖子给我闪一边
+
+> 3．快速渲染：旧瓶装新酒
+
 #学习与感悟
 
 ###1 [冰冻三尺非一日之寒-博客篇](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821177&idx=1&sn=b0f58bbcb9338b85578e4b2fddb87d62&chksm=80b786a7b7c00fb1ab2bcd19bfd1494c4add73eefc829640232b0615d5f81cab2da3ddfcec42&mpshare=1&scene=1&srcid=1010ZLwr5cXsmpBn483svOkR#wechat_redirect) 
@@ -175,79 +239,8 @@
 
 > 5．如果可以对自己进行细分定位会更好
 
-#前沿技术
 
-###1 [Android状态栏着色实践](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237284&idx=1&sn=6e3b30cc63d675bae8cb3e7c9563384e&chksm=8863980bbf14111d1e3ac9522ae56433a3486d58e7ad5b58c1894270a126823983fc3a6017ac&mpshare=1&scene=1&srcid=1009sLFkbEHMoTOgXpYIvkB1#wechat_redirect) 
 
-作者：**郭霖**   分享者： Amore
-
-> 本篇分享了状态栏着色的三种方案，针对不同的情况进行了具体分析。
-
-> 1．第一种方案
-
-> 2．第二种方案
-
-> 3．第三种方案
-
-###2 [Android 性能优化典范（六）](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667376274&idx=1&sn=b35396dc9e2749da076b94979c9c5424&chksm=84f33fdcb384b6cac52b98a29cf379178afe69d6761e92b4b7ad35627c722ac3dbf6887a28c7&mpshare=1&scene=1&srcid=1011ObiSQI9cClmRpq89H8XD#wechat_redirect) 
-
-作者：**胡凯**   分享者： 张明云
-
-> 1．App Launch time 101
-
-> 2．App Launch Time & Activity Creation
-
-> 3．App Launch Time & Bloated Application Objects
-
-> 4．App Launch Time & Theme Launch Screens
-
-> 5．Smaller APKs: A Checklist
-
-> 6．VectorDrawable for smaller APKs
-
-###3 [Android系统16ms之内能做些什么](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483857&idx=1&sn=c74288a11914e5a4560d32e62f043d4a&scene=1&srcid=0914nAGPgMcsWJAWratujNhH#rd) 
-
-作者：**朱志立**   分享者： 井方哥
-
-> 1、16ms指的是什么？
-
-> 2、从xml到display
-
-> 3、关于VSYNC
-
-> 4、双缓冲机制
-
-> 5、三倍缓冲机制
-
-> 6、如何优化16ms问题
-
-> 7、参考文章
-
-###4 [Android Framework 如何学习，如何从应用深入到 Framework？ - weishu 的回答](http://www.zhihu.com/question/46486807/answer/122513260) 
-
-作者：**weishu**   分享者： 袁凯
-
-> 本篇为知乎热门话题热门答案的推荐，有很高的学习价值。
-
-#老僧长谈
- 
-###1 [有哪些值得关注的技术博客（Linux篇） - 知乎专栏·「学习编程」](http://zhuanlan.zhihu.com/p/22407435) 
-
-作者：**路人甲 **   分享者： 董大为
-
-> 1、前端技术博客推荐
-
-> 2、Java技术博客推荐
-
-> 3、Python技术博客推荐
-
-> 4、Linux技术博客推荐
-
-> 5、PHP技术博客推荐
-
-###2 [Android 九年，我们需要学什么？](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650687242&idx=1&sn=a4ea8c1e5780eb2494b59cfa51b3c7c2&chksm=bea636d989d1bfcf9c751ba5fdbf55c980ac0d6c4d16c55cbfc467a3fb6d6bee86e229db7e2f&scene=1&srcid=0913wpiPrVMbt0mN3bra4Ksr#rd) 
-
-作者：**CSDN移动**   分享者： 董大为
 
 
 
