@@ -6,7 +6,7 @@
 
 #View
 
-### 1 [安卓MotionEvent详解 - DiyCode](http://www.gcssloop.com/customview/motionevent)
+### 1 [安卓MotionEvent详解](http://www.gcssloop.com/customview/motionevent)
 
 作者：**GcsSloop** &emsp;&emsp;分享者：寂小桦
 
