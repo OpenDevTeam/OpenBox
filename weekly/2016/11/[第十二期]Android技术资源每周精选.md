@@ -4,19 +4,6 @@
 
 >本周主要推出重量级Android性能优化技巧、前沿知识以及一些开源App和工具。
 
-#View
-
-### 1 [Android 轻松实现 RecyclerView 悬浮条](http://www.diycode.cc/topics/408)
-
-作者：**bigpo** &emsp;&emsp;分享者：寂小桦
-
->1、思路
-
->2、实现
-
->3、时机
-
-
 #性能优化
 
 ### 1 [一触即发App启动优化最佳实践](http://blog.csdn.net/eclipsexys/article/details/53044990)
