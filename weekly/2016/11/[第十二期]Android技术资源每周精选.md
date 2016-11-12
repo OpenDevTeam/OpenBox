@@ -57,7 +57,6 @@
 >5、内存泄露的实例解决方案
 
 
-
 #前沿技术
 
 ### 1 [贝塞尔曲线开发的艺术](http://android.jobbole.com/85085/?from=timeline&isappinstalled=0)
@@ -127,7 +126,15 @@
 
 作者：**仲培艺** &emsp;&emsp;分享者：Amore
 
-> 工欲善其事，必先利其器。一个好的开发库可以快速提高开发者的工作效率，甚至让开发工作变得简单。本文收集了大量的Android开发库，快来切磋一下，到底哪一个最适合你
+> 本 Demo 模仿了 Smartisan OS 的 BigBang 功能。App 打开会从剪切板读取文字并显示，长按会弹出 BigBang 页面进行分词显示。如果剪切板没有内容会显示一段默认的文字。 后台接口基于 node-segment 实现分词
+
+
+###4 [独立全端开发的开源小作：简诗 2.0](http://www.diycode.cc/topics/421)
+
+作者：**wingjay** &emsp;&emsp;分享者：寂小桦
+
+> 简诗 是自己业余时间做的一款简洁、纯粹的文字Android App，传统纵书风格，以求为用户带来更质朴的书写体验
+
 
 #工具
 
