@@ -152,7 +152,7 @@
 
 ###2 [Android 阅读 Office 文档，所有你能想到的解决方案都在这啦](http://www.diycode.cc/topics/413)
 
-作者：**吴小龙同學** &emsp;&emsp;分享者：寂小桦
+作者：**mike_bel** &emsp;&emsp;分享者：寂小桦
 
 >1、WebView 网页显示文档
 
