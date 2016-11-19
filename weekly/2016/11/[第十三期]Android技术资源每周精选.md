@@ -186,9 +186,9 @@
 
 作者：**d_clock** &emsp;&emsp;分享者：寂小桦
 
->1、PPT: https://github.com/DiyCodes/Slides
+>1、[PPT下载](https://github.com/DiyCodes/Slides)
 
->2、视频: http://v.youku.com/v_show/id_XMTgxOTQwNDk3Ng==.html?spm=a2hzp.%208253869%20.0.0.PpgujU&from=y1.7-2
+>2、[视频观看](http://v.youku.com/v_show/id_XMTgxOTQwNDk3Ng==.html?spm=a2hzp.%208253869%20.0.0.PpgujU&from=y1.7-2)
 
 ### 3 [​微信热补丁Tinker项目组的特别访谈](http://mp.weixin.qq.com/s?__biz=MzIwMzYwMjkzOQ==&mid=2247483678&idx=1&sn=edc01acbd70c39c57f296e16e76b99ad&chksm=96cdaf8aa1ba269cdacf03a7f2df0b43d0ef6cfe78bf168153eb04b993ac23e6d6e7a1d2b68a&mpshare=1&scene=1&srcid=111754TgfMkEVtWDmUL6M3gz#rd)
 
