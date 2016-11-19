@@ -15,7 +15,7 @@
 >2、去除的步骤
 
 
-### 2 [​Clipboard还能玩出花 - 徐宜生的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/23700634?from=groupmessage&isappinstalled=1)
+### 2 [​Clipboard还能玩出花](https://zhuanlan.zhihu.com/p/23700634?from=groupmessage&isappinstalled=1)
 
 作者：**徐宜生** &emsp;&emsp;分享者：徐宜生
 
