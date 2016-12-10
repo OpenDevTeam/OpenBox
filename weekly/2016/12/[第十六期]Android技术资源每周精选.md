@@ -118,13 +118,13 @@
 
 >1、导语
 
->2、CodeReview到底能给团队带来什么？
+>2、CodeReview到底能给团队带来什么
 
 >3、什么样的团队需要进行CodeReview活动
 
 >4、如何有效开展CodeReview活动
 
->5、CodeReview方式很多，用哪种会比较好？
+>5、CodeReview方式很多，用哪种会比较好
 
 
 ### 3 [微信终端跨平台组件 mars 系列(二) - 信令传输超时设计](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286449&idx=1&sn=aa2877e8506762253f291eb6d3e80a51&chksm=8334c3b3b4434aa569c5e4033227a4a2dc8ef543a354fb0860997915dd2563802b248d3268a1&mpshare=1&scene=1&srcid=1209z2BSM6InPzilidHtBtws#rd)
@@ -181,6 +181,6 @@
 
 >2、试图重现问题
 
->3、临时方案和终极方案。
+>3、临时方案和终极方案
 
 >4、风险评估及持续优化
