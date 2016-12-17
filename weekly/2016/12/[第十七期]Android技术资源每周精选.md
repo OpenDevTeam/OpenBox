@@ -56,8 +56,8 @@
 
 作者：**StuQ** &emsp;&emsp;分享者：井方哥
 
->1、架构师、H5、DBA、移动、大数据、运维、移动测试、前端
-程序语言开发综述、云计算、嵌入式、安全、微服务、Hadoop、OpenResty、Container 技能图
+>架构师、H5、DBA、移动、大数据、运维、移动测试、前端
+程序语言开发综述、云计算、嵌入式、安全、微服务、Hadoop、OpenResty、Container 技能图。
 
 ### 2 [Android 密钥保护和 C/S 网络传输安全理论指南](https://www.diycode.cc/topics/501)
 
