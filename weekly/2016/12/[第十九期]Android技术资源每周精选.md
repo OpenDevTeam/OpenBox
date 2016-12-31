@@ -1,11 +1,11 @@
-[第18期]Android技术资源每周精选
+[第19期]Android技术资源每周精选
 
 #摘要
 >本周主要推出年度Android开发进阶,架构知识的深度学习以及2016年满满的干货集锦。
 
 #开发进阶
 
-### 1 [Android Studio 调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821802&idx=1&sn=2a0fe27b8ceb5c9920f3991a8b0b146d&chksm=80b78034b7c009227598043f2f3512b7b775a1e6ff7da29b9e5e707253c054b36fa6444ee989&mpshare=1&scene=1&srcid=12289eUaIjussr7simJ9bcYH#rd)
+### 1 [Android Studio 调试技巧](http://blog.tinyx.cc/android-studio-debug.html)
 
 作者：**tinyx** &emsp;&emsp;分享者：张明云
 
@@ -26,7 +26,7 @@
 
 >4、Mars 介绍
 
->5、Sample****
+>5、Sample
 
 
 ### 3 [谷歌DeepMind Lab开源，量身打造个人AlphaGo；Facebook开源跨平台前端布局引擎Yoga……](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650995101&idx=1&sn=e751e08e69129211e3602637976ba1a0&chksm=bdbf01ce8ac888d8ba08f0d6676ce534e02a1085090478d81ffa3a7dd127d478e3ef373d885c&mpshare=1&scene=1&srcid=1224MknW6XnIfVoGFwTjzPyL#rd)
@@ -60,7 +60,7 @@
 
 >6、统筹规划
 
-### 2 [2016移动开发技术巡礼](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112982&idx=1&sn=62892ebeda9e3fdb9b4fd8ac42f44cc8&chksm=844c6fcbb33be6dd9a89e8ff145da7d9fe0442a117cb4496cb1257dfb3be7976df723b3fa720&mpshare=1&scene=1&srcid=1227dKBt9zmJSlZILcp8nlL9#rd)
+### 2 [2016移动开发技术巡礼](http://www.infoq.com/cn/articles/2016-review-mobile)
 
 作者：**徐川** &emsp;&emsp;分享者：rad
 
