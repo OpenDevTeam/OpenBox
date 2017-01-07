@@ -107,7 +107,7 @@
 
 ### 3 [从客户端的角度设计后端的接口](http://www.jianshu.com/p/35a7b6f5f92e)
 
-作者：**listen** &emsp;&emsp;分享者：joker
+作者：**listen2code** &emsp;&emsp;分享者：joker
 
 >1、前言
 
@@ -162,7 +162,7 @@
 
 ### 3 [高级Java程序员值得拥有的10本书](http://www.codeceo.com/article/top-10-books-advanced-java-programmer.html)
 
-作者：**Android开发** &emsp;&emsp;分享者：张明云
+作者：**小峰** &emsp;&emsp;分享者：张明云
 
 >1、《Java in a Nutshell》（Java技术手册）
 
@@ -185,7 +185,7 @@
 
 ### 4 [一个人工作之余6元上线一款APP的血泪史](http://www.jianshu.com/p/21ae5a3037d7)
 
-作者：**悟道Android** &emsp;&emsp;分享者：刘宏侠
+作者：**为梦拼命的攻城狮** &emsp;&emsp;分享者：刘宏侠
 
 >1、前言
 
