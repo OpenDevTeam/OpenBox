@@ -1,6 +1,7 @@
 [第25期]Android技术资源每周精选
 
 #摘要
+
 >本周主要推出自定义View，Android开发进阶以及深度学习的内容。
 
 #View
@@ -157,4 +158,12 @@
 
 >7、bytecode manipulation
 
+### 5 [安居客Android项目架构演进](https://zhuanlan.zhihu.com/p/25420181?utm_medium=social&utm_source=wechat_session&from=groupmessage&isappinstalled=1&winzoom=1)
 
+作者：**张磊** &emsp;&emsp;分享者：原野
+
+>1、三网合并
+
+>2、由RxJava驱动的MVP架构
+
+>3、组件化与模块化
