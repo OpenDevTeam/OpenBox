@@ -1,4 +1,4 @@
-[第25期]Android技术资源每周精选
+[第26期]Android技术资源每周精选
 
 #摘要
 
@@ -258,7 +258,7 @@
 
 >7、代码瘦身
 
-### 3 [开源许可协议了解这些就够了](http://mp.weixin.qq.com/s?__biz=MzI0NTcxNTg5Mg==&mid=2247483968&idx=1&sn=b3ea4e058af219d8f9a8994c21569676&chksm=e94b049bde3c8d8d52572a0a07ee0739b3a1df53f76871d8befa3589466579fbe27d0cd7feda&mpshare=1&scene=1&srcid=0228IyWTXDV2f0l97TK2RUb2#rd)
+### 10 [开源许可协议了解这些就够了](http://mp.weixin.qq.com/s?__biz=MzI0NTcxNTg5Mg==&mid=2247483968&idx=1&sn=b3ea4e058af219d8f9a8994c21569676&chksm=e94b049bde3c8d8d52572a0a07ee0739b3a1df53f76871d8befa3589466579fbe27d0cd7feda&mpshare=1&scene=1&srcid=0228IyWTXDV2f0l97TK2RUb2#rd)
 
 作者：**我是云峰小罗** &emsp;&emsp;分享者：菜刀文
 
