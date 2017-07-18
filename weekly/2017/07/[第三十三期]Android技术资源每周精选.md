@@ -1,4 +1,4 @@
-#view
+# [第三十三期]Android技术资源每周精选
 
 ### 1、[十年的老代码，你敢动？](http://mp.weixin.qq.com/s?__biz=MzIxNzU1Nzk3OQ==&mid=2247484984&idx=1&sn=78c451d3ea639d79f186c88073814216&chksm=97f6b88ca081319afbca2eb807da8b5e6b3fab5037733305d865b2cc55fd5b94878d1448c31a&mpshare=1&scene=1&srcid=07129eeLVnHcT3dGX8NOCEV3#rd)
 
@@ -90,9 +90,10 @@
 >3、自底向上还是自顶向下
 
 
+
 ### 7、[谈谈App的统一跳转和ARouter](http://mp.weixin.qq.com/s/T3HKsJHs4VVlC6HiWPpSaw)
 
-作者：**菜刀文** &emsp;&emsp;分享者：井方哥
+作者：**菜刀文** &emsp;&emsp;分享者：卫晨
 
 >1、Android跳转遇到的问题
 
@@ -104,23 +105,9 @@
 
 >5、ARouter的一些技术点
 
-### 8、[谈谈App的统一跳转和ARouter](http://mp.weixin.qq.com/s/T3HKsJHs4VVlC6HiWPpSaw)
+### 8、[谈谈网络库和Retrofit](http://mp.weixin.qq.com/s/_lXQoIoUEx9UC1P29_d8iQ)
 
-作者：**菜刀文** &emsp;&emsp;分享者：井方哥
-
->1、Android跳转遇到的问题
-
->2、明确需求
-
->3、解决方案ARouter
-
->4、技术分析
-
->5、ARouter的一些技术点
-
-### 9、[谈谈网络库和Retrofit](http://mp.weixin.qq.com/s/_lXQoIoUEx9UC1P29_d8iQ)
-
-作者：**菜刀文** &emsp;&emsp;分享者：井方哥
+作者：**菜刀文** &emsp;&emsp;分享者：卫晨
 
 >1、网络模块需要具备什么能力?
 
@@ -130,11 +117,11 @@
 
 >4、Retrofit技术点
 
+>5、设计模式
 
+### 9、[Android插件化快速入门与实例解析（VirtualApk）](http://www.jianshu.com/p/a7b36d682b6f)
 
-### 10、[Android插件化快速入门与实例解析（VirtualApk）](http://www.jianshu.com/p/a7b36d682b6f)
-
-作者：**恋猫月亮** &emsp;&emsp;分享者：井方哥
+作者：**恋猫月亮** &emsp;&emsp;分享者：恋猫
 
 >1、Activity／Service启动流程
 
