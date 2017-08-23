@@ -53,73 +53,59 @@
 
 
 
-### 5、[做开发十年，我总结出了这些开发经验](http://mp.weixin.qq.com/s/ZP58hhDj-CVLD6LDy6XkUA)
+### 5、[83fastjson发布1.2.37版本，增强对Kotlin支持，进一步提升性能](https://github.com/alibaba/fastjson/releases/tag/1.2.37)
 
-作者：**康亮** &emsp;&emsp;分享者：井方哥
+作者：**温绍锦** &emsp;&emsp;分享者：温绍锦
 
->1、对于团队而言，流程太重要了
+>1、增强对kotlin的支持
 
->2、不要炫技，老老实实写代码
+>2、格式不对时更友好的报错信息
 
->3、架构上实用+适用
+>3、日期反序列化支持更多的格式
 
->4、既要有攻城之力，也要有熬战之气——BUG
+>4、修复IdentiHashMap的一个并发问题
 
->5、自审
 
->6、注释
+### 6、[深入理解Activity启动流程和AMS框架](http://mp.weixin.qq.com/s/BUW776VIVKNDKxneLJRXEQ)
 
->7、代码结构
+作者：**彭小川** &emsp;&emsp;分享者：井方哥
 
->8、......
+>1、Activity生命周期
 
-### 6、[分层的概念——认知的基石](http://mp.weixin.qq.com/s/yLdRuhIWfLOnLPJSDocEhQ)
+>2、应用进程组成
 
-作者：**张铁蕾** &emsp;&emsp;分享者：井方哥
-
->1、分层的概念举例
-
->2、概念的层次与Spec的关系
-
->3、自底向上还是自顶向下
+>3、AMS框架
 
 
 
-### 7、[谈谈App的统一跳转和ARouter](http://mp.weixin.qq.com/s/T3HKsJHs4VVlC6HiWPpSaw)
+### 7、[如何打造一个 Android 编译时注解框架](http://blog.csdn.net/ziwang_/article/details/76576495)
 
-作者：**菜刀文** &emsp;&emsp;分享者：卫晨
+作者：**joker** &emsp;&emsp;分享者：joker
 
->1、Android跳转遇到的问题
+>1、预览
 
->2、明确需求
+>2、permissions4m-annotation
 
->3、解决方案ARouter
+>3、permissions4m-processor
 
->4、技术分析
+>4、AnnotationProcessor
 
->5、ARouter的一些技术点
+>5、.....
 
-### 8、[谈谈网络库和Retrofit](http://mp.weixin.qq.com/s/_lXQoIoUEx9UC1P29_d8iQ)
+### 8、[Android 启动过程框架](http://mp.weixin.qq.com/s/_lXQoIoUEx9UC1P29_d8iQ)
 
-作者：**菜刀文** &emsp;&emsp;分享者：卫晨
+作者：**陆晓明** &emsp;&emsp;分享者：陆晓明
 
->1、网络模块需要具备什么能力?
+>1、Android启动过程框架图
 
->2、为什么Retrofit是个好选择
+>2、图解说明
 
->3、Retrofit业务分析
 
->4、Retrofit技术点
+### 9、[做技术的「五比一」原则](http://mp.weixin.qq.com/s/VfePdDnKkOlsxdm_slQp5g)
 
->5、设计模式
+作者：**张铁蕾** &emsp;&emsp;分享者：张铁蕾
 
-### 9、[Android插件化快速入门与实例解析（VirtualApk）](http://www.jianshu.com/p/a7b36d682b6f)
+>年轻人步入社会，都会渴望把自己炼成宝剑，寒气逼人，但只有强到一定程度，才会主动给自己一把剑鞘。
 
-作者：**恋猫月亮** &emsp;&emsp;分享者：恋猫
-
->1、Activity／Service启动流程
-
->2、插件化实现原理
-
->3、VirtualApk源码解析
-
+### 10、[6 重福利（赠书），5 个月精选干货](http://mp.weixin.qq.com/s/guFWOcTx94LzERwIqJTyQQ)
+> Code小生福利推出
