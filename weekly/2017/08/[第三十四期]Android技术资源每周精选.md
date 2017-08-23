@@ -92,7 +92,7 @@
 
 >5、.....
 
-### 8、[Android 启动过程框架](http://mp.weixin.qq.com/s/_lXQoIoUEx9UC1P29_d8iQ)
+### 8、[Android 启动过程框架](http://mp.weixin.qq.com/s/uH_-apnFHXb6sG59CYsEHg)
 
 作者：**陆晓明** &emsp;&emsp;分享者：陆晓明
 
